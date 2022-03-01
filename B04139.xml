@@ -1,0 +1,446 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The order of my Lord Mayor, the Aldermen, and the sheriffs, for their meetings and wearing of their apparel throughout the whole year.</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04139</idno>
+            <idno type="STC">Wing L2861R</idno>
+            <idno type="STC">ESTC R179963</idno>
+            <idno type="EEBO-CITATION">53299184</idno>
+            <idno type="OCLC">ocm 53299184</idno>
+            <idno type="VID">179928</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04139)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179928)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2808:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The order of my Lord Mayor, the Aldermen, and the sheriffs, for their meetings and wearing of their apparel throughout the whole year.</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>[3], 32, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Fletcher ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Text in black letter.</note>
+                  <note>Imperfect: stained, with slight loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sumptuary laws --  England --  London --  17th century --  Sources.</term>
+               <term>London (England) --  History --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179928:1"/>
+            <pb facs="tcp:179928:1"/>
+            <p>
+               <figure>
+                  <figDesc>arms</figDesc>
+               </figure>THE ORDER OF My LORD MAYOR, The ALDERMEN, and the SHERIFFS, For their Meetings and wearing of their Apparel throughout the whole year.</p>
+            <p>Printed by <hi>J. Fleſher,</hi> Printer to the Honourable City of <hi>LONDON,</hi> 1667.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:179928:2"/>
+            <pb facs="tcp:179928:2" rendition="simple:additions"/>
+            <head>THE TABLE.</head>
+            <list>
+               <item>UPon Midſummer-day, for the Election of the Sheriffs of London, &amp;c. 1</item>
+               <item>On Bartholomew Even for the Fair in Smithfield 4</item>
+               <item>On Bartholomew-day, for Wreſtling 5</item>
+               <item>For our Lady-day in Southwark 6</item>
+               <item>For the Swearing of the Sheriffs upon Mi<g ref="char:EOLhyphen"/>chaelmas Even 7</item>
+               <item>Upon Michaelmas-day, for the Election of my Lord Mayor 8</item>
+               <item>For the Preſenting of my Lord Elect to the Lord Chancellor, (or Lord Keeper) 12</item>
+               <item>The morrrow after Michaelmas-day, for the Sheriffs going to Weſtminſter <hi>ibid.</hi>
+               </item>
+               <item>The order for Simon and Judes day. 15</item>
+               <item>On the morrow after Simon and Judes day, for my Lord's going to take his Oath at Weſtminſter 17</item>
+               <item>For going to S. Pauls on All-Saints day, Chriſtmas-day, Twelfth day, and Candle<g ref="char:EOLhyphen"/>mas-day 20</item>
+               <item>Upon S. Thomas-day 21</item>
+               <item>Eor the Chriſtmas Holidaies <hi>ibid.</hi>
+               </item>
+               <item>Upon Innocents day <hi>ibid.</hi>
+               </item>
+               <item>For Monday after Twelfth-day 22</item>
+               <item>For good-Friday <hi>ibid.</hi>
+               </item>
+               <pb facs="tcp:179928:3"/>
+               <item>For Munday and Tueſday in Eaſter-week. 23</item>
+               <item>For Wedneſday in Eaſter-week <hi>ibid.</hi>
+               </item>
+               <item>For Low-Sunday 24</item>
+               <item>For Whitſunday <hi>ibid.</hi>
+               </item>
+               <item>For Munday and Tueſday in Whitſun-week <hi>ibid.</hi>
+               </item>
+               <item>For the Lord Mayors Knighthood 25</item>
+               <item>For going to S. <hi>Pauls</hi> the firſt Sunday of every Term <hi>ibid.</hi>
+               </item>
+               <item>For Election of Knights and Burgeſſes of the Parliament 26</item>
+               <item>For the Lords of the Council coming down for Subſidies 27</item>
+               <item>For the Election of Maſter Chamberlein and Bridg-Maſters, if any of them de<g ref="char:EOLhyphen"/>part within the year <hi>ibid.</hi>
+               </item>
+               <item>For the Coronation of a King 28</item>
+               <item>The Uſe of my Lord's Cloak <hi>ibid.</hi>
+               </item>
+               <item>For the firſt day of every Quarter-Seſſions, 29</item>
+               <item>For the Burial of Aldermen 30</item>
+               <item>For the Nomination of an Alderman <hi>ibid.</hi>
+               </item>
+               <item>For the Orphans Court 31</item>
+               <item>At the Election of Governours for Chriſt's Hoſpital <hi>ibid.</hi>
+               </item>
+               <item>Courts of Aldermen 32</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:179928:3" rendition="simple:additions"/>
+            <head>Upon Midſummer-day, for the Election of the She<g ref="char:EOLhyphen"/>riffs of LONDON, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Y Lord Mayor and the Aldermen, with the Sheriffs, méet at the Guildhall at eight of the clock in the mor<g ref="char:EOLhyphen"/>ning, apparelled in their Violet Gowns lined, and their Cloaks of Scarlet lined, without their Horſes.</p>
+            <p>And when they have béen toge<g ref="char:EOLhyphen"/>ther in the Council-Chamber a certain time, concerning the No<g ref="char:EOLhyphen"/>mination of certain perſons to be Elected, my Lord and the Alder<g ref="char:EOLhyphen"/>men come out, and put on their Cloaks in the Orphans Court,
+<pb n="2" facs="tcp:179928:4" rendition="simple:additions"/> and then go down in order to the Huſtings Court, and there being ſet, maſter Recorder ſtandeth up, and maketh his obeyſance, firſt to my Lord, and then unto the Com<g ref="char:EOLhyphen"/>mons, and declareth unto them wherefore they are aſſembled toge<g ref="char:EOLhyphen"/>ther, ſhewing unto them that it is for the election of one of the She<g ref="char:EOLhyphen"/>riffs of London, and the Sheriff of Middleſex, for the year next en<g ref="char:EOLhyphen"/>ſuing, and the confirmation of the other Sheriff nominated by my Lord Mayor, according to his Prerogative; and alſo for maſter Chamberlein, and other Offi<g ref="char:EOLhyphen"/>cers.</p>
+            <p>But my Lord and the Aldermen go up to my Lords Court, and there remain untill the Sheriff be named and choſen, the door ſhut to them.</p>
+            <p>Then M. Sheriffs, M. Cham<g ref="char:EOLhyphen"/>berlein, maſter common Ser<g ref="char:EOLhyphen"/>jeant,
+<pb n="3" facs="tcp:179928:4"/> maſter Town-Clerk, and the Counſellors of the City, and other Officers, remain ſtill in the Huſtings Court, to take and recei<g ref="char:EOLhyphen"/>ve the Name of him that ſhall ſéem by their judgments, fréely and with one conſent, to be nomi<g ref="char:EOLhyphen"/>nated and elected, and juſtly tried out, not onely by voice, but alſo by hands, to be Sheriff for the year following.</p>
+            <p>Then the Commons go to the Election of maſter Chamberlein, the two Bridge-maſters, the Au<g ref="char:EOLhyphen"/>ditors of the City and Bridge-houſe acounts, and the Survey<g ref="char:EOLhyphen"/>ors of Béer and Ale, according to the accuſtomed manner.</p>
+            <p>That done, the Sheriffs, maſter Chamberlein, M. common Ser<g ref="char:EOLhyphen"/>jeant, M. Town-Clerk, the Coun<g ref="char:EOLhyphen"/>ſellors of the City, the two Secon<g ref="char:EOLhyphen"/>daries, &amp; the Wardens of the head Companies, maſter Common
+<pb n="4" facs="tcp:179928:5"/> Crier going before them with his Mace, carry up the Report to my Lord and the Aldermen of their ſaid Election.</p>
+            <p>Which Report received, my Lord and the Aldermen come down a<g ref="char:EOLhyphen"/>gain to the Huſtings Court, and there being ſet in order and pla<g ref="char:EOLhyphen"/>ced, maſter Recorder ſtandeth up as he did before, and maketh re<g ref="char:EOLhyphen"/>hearſal of the names of thoſe whom they have nominated and choſen, asking them whether it be their frée Election, yea or no. And they grant, Yea, yea. Then maſter Recorder giveth them thanks, and ſo they ariſe and depart home.</p>
+         </div>
+         <div type="part">
+            <head>On Bartholomew Even for the Fair in Smithfield.</head>
+            <p>THe Aldermen méet my Lord &amp; the Sheriffs at the Guild<g ref="char:EOLhyphen"/>hall Chappel, at two of the clock
+<pb n="5" facs="tcp:179928:5"/> after Dinner, in their Violet Gowns lined, and their Horſes, without Cloaks, and there hear Evening Prayer: which being done, they take their Horſes and ride to Newgate, and ſo forth of the Gate, entring into the Cloth-Fair, and there make a Proclama<g ref="char:EOLhyphen"/>tion: the Proclamation being made, they ride through the Cloth-Fair, and ſo return back again through the Church-yard of great S. Bartholomews to Alderſgate, and ſo ride home again to the Lord Mayors houſe.</p>
+         </div>
+         <div type="part">
+            <head>On S. Bartholomew-day, for Wreſtling.</head>
+            <p>SO many Aldermen as do dine with my L. Mayor and the She<g ref="char:EOLhyphen"/>riffs be apparelled in their Scar<g ref="char:EOLhyphen"/>let Gowns lined, and after Din<g ref="char:EOLhyphen"/>ner their Horſes be brought to them where they dine: &amp; thoſe Al<g ref="char:EOLhyphen"/>dermen which dine with the She<g ref="char:EOLhyphen"/>riffs
+<pb n="6" facs="tcp:179928:6" rendition="simple:additions"/> ride with them to my Lords houſe to accompany him to the Wreſtling. Then when the Wreſt<g ref="char:EOLhyphen"/>ling is done, they take their Hor<g ref="char:EOLhyphen"/>ſes and ride back again through the Fair, and ſo in at Alderſgate and ſo home again to the ſaid Lord Mayors houſe.</p>
+            <p>The next day, if it be not Sun<g ref="char:EOLhyphen"/>day, for the Shooting, as upon Bartholomew-day: but if it be Sunday, the Monday following.</p>
+         </div>
+         <div type="part">
+            <head>
+               <note place="margin">Embroy<g ref="char:EOLhyphen"/>dered cap, pearl Sword, coller of Eſſes without Hood.</note>For our Lady-day in Southwark.</head>
+            <p>MY L. Mayor and the Sheriffs ride to S. Magnus Church in their Scarlet Gowns lined, without their Cloaks, after Din<g ref="char:EOLhyphen"/>ner, at two of the clock, &amp; there the Aldermen méet my Lord, and af<g ref="char:EOLhyphen"/>ter the Evening Prayer they ride through the Fair, till they come unto S. Georges Church, and far<g ref="char:EOLhyphen"/>ther
+<pb n="7" facs="tcp:179928:6"/> to Newington Bridge, or to S. Thomas of Waterings, to the ſtones that point out the liberties of the City, (if it be ſo their pleaſures) and they return back again unto the Bridge-houſe, and have a Banquet there, and then over the Bridge, and there the Al<g ref="char:EOLhyphen"/>dermen take their leave of my Lord, and depart the next way, every one to his houſe. And after all is done, and my Lord brought home, my Lord Mayors Officers have a Supper made them by the Bridg-maſters.</p>
+         </div>
+         <div type="part">
+            <head>For the Swearing of the Sheriffs up<g ref="char:EOLhyphen"/>on Michaelmas Even.</head>
+            <p>WHat day ſoever it falleth, ſo many of the Aldemen as be bidden to Dinner to either of the Sheriffs come thither to breakfaſt<g ref="char:punc">▪</g> or elſe to drink, at 8 of the clock in the morning, in their Violet
+<pb n="8" facs="tcp:179928:7"/> Gowns furred, with their Viole<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cloaks furred, brought with them, without Horſes. And if the She<g ref="char:EOLhyphen"/>riff be an Alderman, then they muſt put on their Cloaks, and the Sheriff likewiſe his Cloak, and ſo go to the Guild-hall betwéen two of the gray Cloaks: And if the Sheriff be no alderman, then to come betwéen two of the Alder<g ref="char:EOLhyphen"/>men without Cloaks, and the Sheriff in his Livery-gown and his Hood. And after when he is ſworn, then to put on his Violet Gown and Cloak, and his chain thereon. And the Aldermen muſt bring him home to his place, with their Cloaks, to Dinner, and ſo af<g ref="char:EOLhyphen"/>ter Dinner take their pleaſure.</p>
+         </div>
+         <div type="part">
+            <head>Upon Michaelmas-day, for the Election of my Lord Mayor.</head>
+            <p>ALL the Aldermen méet my Lord and the Sheriffs at
+<pb n="9" facs="tcp:179928:7"/> eight of the clock in the Morning at Guildhall, in their Scarlet Gowns and their Cloaks furred, and their Horſes: and after they have béen a certain time together in the Council-Chamber, they come forth into the Orphans Court, and put on their Cloaks, and ſo go in order to the Chappel, there hearing Service and Ser<g ref="char:EOLhyphen"/>mon, and my Lord with certain Aldermen receive the Commu<g ref="char:EOLhyphen"/>nion.</p>
+            <p>And then after the Communion ended, and they have offered, return again into the Council-Chamber, and, pauſing a while, return to the place where the Huſtings is kept: and being ſet in order, Maſter Re<g ref="char:EOLhyphen"/>corder ariſeth up, and maketh his obeyſance firſt to my Lord, and after to the Commons, &amp; declareth unto them, that they of old Cuſtom know that the cauſe of their Aſſem<g ref="char:EOLhyphen"/>bly
+<pb n="10" facs="tcp:179928:8"/> and méeting together is for the election of the Lord Mayor for the year enſuing; declaring unto them divers Grants from the Kings Progenitors for this their Election from time to time. That done, my Lord and the Aldermen go up into my Lords Court; and there tarry (the door being ſhut to them) till the Election be brought to them. Then ſtandeth up maſter Common Serjeant, (the Sheriffs ſtanding on either ſide of him) and by the Sheriffs M. Chamberlein, M. Town-Clerk, the two Secon<g ref="char:EOLhyphen"/>daries, and the Counſellors of the City, in the ſaid Huſtings Court before the Commons. And he the ſaid Common Serjeant maketh a ſhort rehearſal of that M. Recorder had ſpoken to them before ſaying, There reſteth no more for him to ſay, but to put them in remem<g ref="char:EOLhyphen"/>brance in what order and ſort they
+<pb n="11" facs="tcp:179928:8"/> ſhould uſe themſelves in their E<g ref="char:EOLhyphen"/>lection; that is, how they muſt no<g ref="char:EOLhyphen"/>minate and chuſe two, of the which two my Lord and the Aldermen muſt confirm one: which two be<g ref="char:EOLhyphen"/>ing nominated, elected and cho<g ref="char:EOLhyphen"/>ſen, M. Common Serjeant, the Sheriffs, with the reſt before na<g ref="char:EOLhyphen"/>med, and certain of the head War<g ref="char:EOLhyphen"/>dens of the cheif Companies, go up to my Lord and the Aldermen, and there preſent the names of thoſe two which the Commons have nominated in their Election.</p>
+            <p>Then the Lord Mayor and the Aldermen procéed by ſcrutiny to elect one of thoſe two perſons, which the ſaid Commons had be<g ref="char:EOLhyphen"/>fore nominated. Then cometh down my Lord again to the Hu<g ref="char:EOLhyphen"/>ſtings Court, and he (whom they have choſen) on his left hand, and ſo my Lord and the Aldermen ſit down again in order: but he who
+<pb n="12" facs="tcp:179928:9"/> is choſen ſitteth next unto my Lord on his left hand. Then ſtan<g ref="char:EOLhyphen"/>deth maſter Recorder up, and rea<g ref="char:EOLhyphen"/>deth unto them the names of ſuch perſons whom they have nomina<g ref="char:EOLhyphen"/>ted and choſen: of which my Lord and the Aldermen have admitted one, whoſe name is <hi>N.</hi> asking them whether it be their frée Ele<g ref="char:EOLhyphen"/>ction, yea or no: and the Commons anſwer, Yea, yea. Then the Sword-bearer taketh off his Tip<g ref="char:EOLhyphen"/>pet, and hath it for his labour, and putteth, on his Chain, and the Mayor new elected ſtandeth upon the Huſtings Court, and giveth thanks, &amp;c. That being done, the old Mayor doth likewiſe give them thanks, &amp;c. Then they ariſe up, and put off their Cloaks, and my Lord Mayor hath the Lord elect riding with him to the eldeſt She<g ref="char:EOLhyphen"/>riffs to Dinner.</p>
+         </div>
+         <div type="part">
+            <pb n="13" facs="tcp:179928:9"/>
+            <head>For preſenting of my Lord Elect to the Lord Chancellor (or Lord Keeper.)</head>
+            <p>THen after Dinner my Lord Elect goeth to my Lord Chancellor, (or Lord Kéeper) if he be at home at his place, or near unto it, with five or ſix of the Al<g ref="char:EOLhyphen"/>dermen, and maſter Recorder with him, in their Violet Gowns, ei<g ref="char:EOLhyphen"/>ther by foot or by water, as the dwelling-place of the Chancellor (or Lord Kéeper) requireth. The common Hunt, with the extraor<g ref="char:EOLhyphen"/>dinary Officers, and thoſe that be at liberty, attend on him.</p>
+         </div>
+         <div type="part">
+            <head>The morrow after Michaelmas-day, for the Sheriffs going to Weſt<g ref="char:EOLhyphen"/>minſter.</head>
+            <p>ALL the Aldermen muſt be at the two Sheriffs houſes in the morning at eight of the clock,
+<pb n="14" facs="tcp:179928:10"/> in their Violet Gowns furred, &amp; their Horſes, without Cloaks: but my Lord, maſter Recorder and the two Sheriffs muſt be in their Scarlet Gowns furred, and their Cloaks born to Weſtminſter with them, and ſo ride to the Guildhall, and from thence to the Vinetrée, and there taking Barge land at Weſtminſter-bridge, and in the Hall put on their Cloaks, and ſo go up to the Exchequer: and there the two new Sheriffs be preſen<g ref="char:EOLhyphen"/>ted, &amp; the old ſworn to their account.</p>
+            <p>Then they put off their Cloaks, and take Barge, landing again at the Vinetrée, and there take horſe: and my Lord Mayor rideth to the eldeſt Sheriffs to Dinner, maſter Recorder and the Sheriffs riding next my Lord, the two Sheriffs carrying two white rods in their hands, and their Hench-men go<g ref="char:EOLhyphen"/>ing after them.</p>
+         </div>
+         <div type="part">
+            <pb n="15" facs="tcp:179928:10"/>
+            <head>The order for Simon and Judes day</head>
+            <p>THe old Mayor ſhall have ſo many of the Aldermen as dine with him come to his place at eight of the clock in the morn<g ref="char:EOLhyphen"/>ing, in their Violet Gowns furred, with their Violet Cloaks furred, and Horſes, and the Sheriffs to fetch him to the Hall, and there tarry in the Council-Chamber un<g ref="char:EOLhyphen"/>till the new Mayor cometh, and the reſt of the Aldermen come, with the Company of either of the Lords before them: and after they have been together a certain ſpace come forth into the Orphans Court, and put on their furred Cloaks, and go to the Huſtings Court: &amp; there being ſet in order, the Common Crier maketh Pro<g ref="char:EOLhyphen"/>clamation, commanding every man to kéep ſilence.</p>
+            <p>Then Maſter Town-Clerk<pb n="16" facs="tcp:179928:11"/> giveth him his Oath: and when He hath taken, his Oath, the old Lord ariſeth, and giveth the new Lord his place, the old Lord taking the new Lords place: and then maſter Chamberlein delivereth firſt to him the Scepter, next the Keys of the common Seal, laſtly, the Seal, of Office of the May<g ref="char:EOLhyphen"/>oralty, after maſter Sword-bea<g ref="char:EOLhyphen"/>rer giveth him the Sword. Then they ariſe &amp; put off their Cloaks, and the old Lord rideth home with the new Lord to his place, and there leaveth him, and as many of the Aldermen as dine with him. And the old Lord, with the reſt of the Aldermen, ride to his place, the Sword born before him: and ſo after Dinner the Aldermen de<g ref="char:EOLhyphen"/>part home at their pleaſure.</p>
+         </div>
+         <div type="part">
+            <pb n="17" facs="tcp:179928:11"/>
+            <head>On the morrow after Simon and Jude's day, for my Lord going to take his Oath at Weſtminſter.</head>
+            <p>ALL the Aldermen and the Sheriffs come to my new Lord at eight of the clock in their Scarlet Gowns furred,<note place="margin">A Velvet Hood, Cap of Mainte<g ref="char:EOLhyphen"/>nance.</note> and their Cloaks born with them, and their Horſes, and ſo ride to the Guild-hall, and the Bachellors and the Livery of my Lords Company be<g ref="char:EOLhyphen"/>fore him.</p>
+            <p>But the old Lord rideth from his own place to the Hall alone, having no Officers to wait upon him, but the common Hunt, as a Gentleman Vſher, going, and thoſe Officers that be at Liberty,<note place="margin">A Velvet Hood for both Mayors.</note> and the common Hunt his man, (with his own men following him) and ſo tarrieth at the Hall.</p>
+            <p>And after they be come all toge<g ref="char:EOLhyphen"/>there,
+<pb n="18" facs="tcp:179928:12"/> they take their Horſes, and ride to the Vinetrée, and there take Barge to Weſtminſter-bridge.</p>
+            <p>And after they be landed, the Lord mayor and the Aldermen put on their Cloaks within the Pal<g ref="char:EOLhyphen"/>ace, and go round about the Hall, making curtiſie in the Hall, and ſo go up to the Exchequer to be ſworn. Then after the Oath ta<g ref="char:EOLhyphen"/>ken in the Exchequer, they come down again, and go firſt to the Kings Bench, then to the Com<g ref="char:EOLhyphen"/>mon Place, and ſo put off their Cloaks, and go about the Kings Tombs in Weſtminſter Abbey, and then take Barge again. And being landed, he rideth to the Guildhall to Dinner, and all the Companies of this City with him: and at their coming into the Hall, the new Lord Mayor, with two of the ancient Aldermen, mas<g ref="char:EOLhyphen"/>ter Recorder and the She<g ref="char:EOLhyphen"/>riffs
+<pb n="19" facs="tcp:179928:12"/> go up to my Lords Table to bid them welcome, and likewiſe all the other gueſts there, and from thence to the Lady Mayoreſs Ta<g ref="char:EOLhyphen"/>ble, and ſo come out to the Gentle<g ref="char:EOLhyphen"/>womens Table, &amp; to the Iudges: and ſo from thence my ſaid new L. Mayor goeth into the Cham<g ref="char:EOLhyphen"/>berleins Office, where he dineth; and the old Lord Mayor, at their firſt coming into the Hall, goeth up to the high Table in the Huſt<g ref="char:EOLhyphen"/>ings, and there kéepeth the State for that Feaſt. And after the Hall is allmoſt ſerved of the ſecond, then the new Lord Mayor goeth, with maſter Recorder and thoſe Alder<g ref="char:EOLhyphen"/>men that dine with him, to bid the old Lord and all the gueſts in the Hall welcome. Then after Dinner goeth to S. Pauls, with all the Companies waiting before my Lord.</p>
+         </div>
+         <div type="part">
+            <pb n="20" facs="tcp:179928:13"/>
+            <head>For going to S. Paul's on All-Saints day, Chriſtmas-day, Twelfth-day, and Candlemas-day.<note place="margin">A Velvet Hood for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth.</note>
+            </head>
+            <p>ALL the Aldermen and the Sheriffs come to my Lords place in their Scarlet Gowns fur<g ref="char:EOLhyphen"/>red,<note place="margin">All-Saints day is the laſt day that the old Lord rides with the new.</note> and their Cloaks and Hor<g ref="char:EOLhyphen"/>ſes, and from thence ride to the Guildhall, my Lords Company and the Bachelors before him, and there hear Evening Prayer: and when Prayer is done, they ride to S. Pauls,<note place="margin">Cap of Mainte<g ref="char:EOLhyphen"/>nance.</note> and there both the new Lord Mayor and the old put on their Cloaks, and go up to the quire, and there hear the Ser<g ref="char:EOLhyphen"/>mon: which done, they go about the Church, and there put off their Cloaks where they were put on. Then they take their Horſes a<g ref="char:EOLhyphen"/>gain, and the Aldermen bring my Lord home, and then they have Spice-bread and Hippocras, and ſo take their leave of my Lord.</p>
+         </div>
+         <div type="part">
+            <pb n="21" facs="tcp:179928:13" rendition="simple:additions"/>
+            <head>Upon S. Thomas day.</head>
+            <p>THe Lord Mayor and every Alderman is to ſit in his Ward in his Violet Gown and Cloak furred.<note place="margin">If it be not Sunday.</note>
+            </p>
+         </div>
+         <div type="part">
+            <head>For the Chriſtmas-Holydaies.</head>
+            <p>FOr Chriſtmas-Holydaies,<note place="margin">No Cloak.</note> un<g ref="char:EOLhyphen"/>till Twelfth-day, if me Lord and the Aldermen go abroad to any publick méeting, they are to wear Scarlet: but on the work<g ref="char:EOLhyphen"/>ing-daies within the twelve daies, if my Lord go to the Guild<g ref="char:EOLhyphen"/>hall, Markets or Strées, they wear Black,</p>
+         </div>
+         <div type="part">
+            <head>Upon Innocents day.</head>
+            <p>UPon Innocents day the Al<g ref="char:EOLhyphen"/>dermen dine at my Lords,<note place="margin">No State.</note> and the Sheriffs, in Scarlet: but
+<pb n="22" facs="tcp:179928:14"/> the Ladies wear Black.</p>
+         </div>
+         <div type="part">
+            <head>For Monday after Twelfth-day.</head>
+            <p>MY Lord and the Aldermen méet at the Guildhall at eight of the clock in the morning, in their Scarlet Gowns furred, and their Cloaks furred without Horſes, to receive of their Wards their Indentures of the Ward<g ref="char:EOLhyphen"/>mote Inqueſt, and for the ſwearing of the Conſtables and Scaven<g ref="char:EOLhyphen"/>gers.</p>
+         </div>
+         <div type="part">
+            <head>For good-Friday.</head>
+            <p>
+               <note place="margin">Black Sword.</note>MY Lord and the Aldermen méet at S. Pauls Croſs at one of the clock, to hear the Ser<g ref="char:EOLhyphen"/>mon, in their pewke Gowns and without their Chains and Tip<g ref="char:EOLhyphen"/>pets.</p>
+         </div>
+         <div type="part">
+            <pb n="23" facs="tcp:179928:14"/>
+            <head>For Monday and Tueſday in Eaſter-week.</head>
+            <p>ALL the Aldermen and She<g ref="char:EOLhyphen"/>riffs come unto my Lords place before eight of the clock to Breakfaſt,<note place="margin">A Hood for my Lord. Cap of Mainte<g ref="char:EOLhyphen"/>nance.</note> in thir Scarlet Gowns furred, and their Cloaks and Hor<g ref="char:EOLhyphen"/>ſes: and after Breakfaſt, take their Horſes, &amp; ride to the Spittle, and there put on their Cloaks, and ſo ſit down in order to hear the Ser<g ref="char:EOLhyphen"/>mon; which done, they ride home<g ref="char:EOLhyphen"/>ward in order, till they come to the Pump within Biſhopſgate, and there ſo many of the Aldermen as do dine with the Sheriffs take their leave of my Lord, and the reſt go home with him.</p>
+         </div>
+         <div type="part">
+            <head>For Wedneſday in Eaſter-week.</head>
+            <p>LIke as before in the other two days ſave that my Lord and
+<pb n="24" facs="tcp:179928:15"/> the Aldermen muſt be in their Vi<g ref="char:EOLhyphen"/>olet Gowns, and ſutable Cloaks, but the Ladies in Black.</p>
+         </div>
+         <div type="part">
+            <head>For Low-Sunday.</head>
+            <p>ALL the Aldermen méet my Lord and the Sheriffs at S. Pauls School in their Scarlet Gowns, furred, without their Cloaks or Horſes, to hear the Ser<g ref="char:EOLhyphen"/>mon.</p>
+         </div>
+         <div type="part">
+            <head>For Whitſunday.</head>
+            <p>FOr Whitſunday all the Alder<g ref="char:EOLhyphen"/>men méet my Lord &amp; the She<g ref="char:EOLhyphen"/>riffs at the new Church-yard, in their Scarlet Gowns lined, with<g ref="char:EOLhyphen"/>out Cloaks, to hear the Sermon: which being ended they depart.</p>
+         </div>
+         <div type="part">
+            <head>For Munday and Tueſday in Whit<g ref="char:EOLhyphen"/>ſun-week.</head>
+            <p>
+               <note place="margin">If his plea<g ref="char:EOLhyphen"/>ſure be to go.</note>ALL the Aldermen muſt méet my L. Mayor &amp; the Sheriffs
+<pb n="25" facs="tcp:179928:15" rendition="simple:additions"/> at S. Pauls in their Scarlet Gowns, without Cloaks, to hear the Sermon.</p>
+         </div>
+         <div type="part">
+            <head>For the Lord Mayor's Knighthood.</head>
+            <p>ALL the Aldermen méet my Lo. either at the thrée Cranes, (if the King be at Weſtminſter) or at S. Mary hill, (if the King be at Gréenwich) by ſeven of the clock in the morning in their Scarlet Gowns, and Cloaks born with them: and after Morning Pray<g ref="char:EOLhyphen"/>er they take Barge to the Kings place, where they attend till that Ceremony be ended, and ſo go home with my Lord Mayor to Dinner.</p>
+         </div>
+         <div type="part">
+            <head>For going to S. Pauls the firſt Sun<g ref="char:EOLhyphen"/>day of every Term.</head>
+            <p>ALL the Aldermen méet my Lo. and the Sheriffs at S. Pauls,
+<pb n="26" facs="tcp:179928:16" rendition="simple:additions"/> in their Scarlet Gowns furred or lined, without Cloaks or Horſe, as the time of the year requireth, when the Term beginneth.</p>
+         </div>
+         <div type="part">
+            <head>For Election of Knights and Bur<g ref="char:EOLhyphen"/>geſſes of the Parliament.</head>
+            <p>ALl the Aldermen méet my Lo. and the Sheriffs at Guild-hall at nine of the clock, in their Violet Gowns and their Cloaks furred or lined, as the time of the year when they ſhall be choſen re<g ref="char:EOLhyphen"/>quireth, and ſit in the Huſtings Court while the Commons chuſe them. The order is, that they muſt chuſe maſter Recorder for one of their Knights, and one gray Cloak for the other, and two Com<g ref="char:EOLhyphen"/>moners for the Burgeſſes: which done, they depart.</p>
+         </div>
+         <div type="part">
+            <pb n="27" facs="tcp:179928:16" rendition="simple:additions"/>
+            <head>For the Lords of the Council comming down for Subſidies,</head>
+            <p>FOr the Lords and Commiſſio<g ref="char:EOLhyphen"/>ners coming down to aſſeſs the Subſidies, my Lord Mayor and the Aldermen wear their black Gowns as at other times, and the Comiſſioners are to be war<g ref="char:EOLhyphen"/>ned by maſter Sheriffs Offi<g ref="char:EOLhyphen"/>cers.</p>
+         </div>
+         <div type="part">
+            <head>For the Election of Maſter Cham<g ref="char:EOLhyphen"/>berlin and Bridg-maſters, if any of them depart within the year.</head>
+            <p>MY Lord and the Aldermen ſit in the Huſtings Court while they be choſen, in their Violet Gowns without their Cloaks, and do not remove untill the Ele<g ref="char:EOLhyphen"/>ction be done.</p>
+         </div>
+         <div type="part">
+            <pb n="28" facs="tcp:179928:17"/>
+            <head>For the Coronation of a King.</head>
+            <p>
+               <note place="margin">My Lord in a crim<g ref="char:EOLhyphen"/>ſon velvet Gown, Coller of Eſſes and Scepter. No Cloak.</note>ALl the Aldermen méet my Lo. and the Sheriffs at the thrée Cranes in the Vintry, at the hour of their ſummons, in their Scar<g ref="char:EOLhyphen"/>let Gowns, and Cloaks born with them, lined or furred, according to the time of the year, where ta<g ref="char:EOLhyphen"/>king Barge, they land at Weſt<g ref="char:EOLhyphen"/>minſter, and there they attend in the Checquer-Chamber (being ſer<g ref="char:EOLhyphen"/>ved with Wine and Cakes) untill they are called by the Heraulds: then they put on their Cloaks.</p>
+         </div>
+         <div type="part">
+            <head>The Uſe of my Lords Cloak.</head>
+            <p>
+               <note place="margin">Beginning upon Mi<g ref="char:EOLhyphen"/>chaelmas E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en</note>FRom Michaelmas to Whit<g ref="char:EOLhyphen"/>ſuntide, Violet furred: and from Whitſuntide to Michael<g ref="char:EOLhyphen"/>mas Scarlet lined.</p>
+            <p>The Lord Mayor and thoſe
+<pb n="29" facs="tcp:179928:17"/> Knights that have born the Office of Mayoralty ought to have their Cloaks furred with gray Amis, and thoſe Aldermen that have not béen Mayors are to have their Cloaks furred with Chalabre.</p>
+            <p>And likewiſe ſuch as have béen Mayors are to have their Cloaks lined with changeable Taffata, and the reſt are to have them lined with gréen Taffata.</p>
+         </div>
+         <div type="part">
+            <head>For the firſt day of every Quarter-Seſſions.</head>
+            <p>THe firſt day of every Quar<g ref="char:EOLhyphen"/>ter-Seſſions, in the forenoon onely, my Lord and the Sheriffs wear their Violet Gowns and Cloaks furred; but at Midſum<g ref="char:EOLhyphen"/>mer Quarter-Seſſions the firſt day they wear Violet Gowns and Scarlet Cloaks, and on the other daies Black.</p>
+         </div>
+         <div type="part">
+            <pb n="30" facs="tcp:179928:18"/>
+            <head>For the Burial of Aldermen.</head>
+            <p>THe Aldermen muſt be in their Violet Gowns, except ſuch as have of their friends black Gowns. When any Alderman dieth, maſter Sword-bearer is to have a black Gown, or xxxiii. s. iiii. d. in mony: and if he giveth my Lord a black Gown, maſter Sword-bearer is to have another, or xl. s. in mony, the price thereof, and ſo carry the Sword in black before my Lord.</p>
+            <p>Maſter Chamberlein is not to wear his Tippet but when my Lord Mayor or the Aldermen wear their Scarlet or Violet.</p>
+         </div>
+         <div type="part">
+            <head>At the Nomination of an Alderman.</head>
+            <p>FOr the Nomination of an Al<g ref="char:EOLhyphen"/>derman, my Lord weareth his
+<pb n="31" facs="tcp:179928:18"/> black Gown and Violet Cloak, and both the Sheriffs black Gowns.</p>
+         </div>
+         <div type="part">
+            <head>For the Orphans Court</head>
+            <p>MY Lord and the Aldermen méet at the Guild-hall in their Violet Gowns without Cloaks, but my Lord Mayor muſt have his Cloak. This Court the Common Crier warneth.</p>
+         </div>
+         <div type="part">
+            <head>At the Election of Governours at Chriſt's Hoſpitall.</head>
+            <p>FOr the Election of the Gover<g ref="char:EOLhyphen"/>nours of the ſeverall Hoſpitals, the Lord Mayor and the Aldermen wear black Gowns.</p>
+            <p>The four Pleaders, the Cham<g ref="char:EOLhyphen"/>berlein, Town-Clerk, Common Serjeant, two Iudges of the Sheriffs Court, the Secondaries,
+<pb n="32" facs="tcp:179928:19"/> Vnder-Chamberlein and Bridg<g ref="char:EOLhyphen"/>maſters, are to attend my Lord at his houſe, before his going abroad upon all Feſtival times, and gene<g ref="char:EOLhyphen"/>ral days.</p>
+         </div>
+         <div type="part">
+            <head>Courts of Aldermen.</head>
+            <p>COurts of Aldermen in ordina<g ref="char:EOLhyphen"/>ry are kept at the Guild-hall every Tueſday and Thurſday through the whole year, except Holy-daies, the month of Auguſt, untill Bartholomew-day be paſt, the wéek before Chriſtmas, Shrove-tueſday, and the wéek be<g ref="char:EOLhyphen"/>fore Eaſter.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="list_of_companies_cited">
+            <pb facs="tcp:179928:19"/>
+            <head>The names of the ſeveral Companies in their Order.</head>
+            <list>
+               <item>Mercers.</item>
+               <item>Grocers.</item>
+               <item>Drapers,</item>
+               <item>Fiſhmongers.</item>
+               <item>Goldſmiths.</item>
+               <item>Skinners.</item>
+               <item>Merchant-Taylors.</item>
+               <item>Haberdaſhers.</item>
+               <item>Salters.</item>
+               <item>Ironmongers.</item>
+               <item>Vintners.</item>
+               <item>Cloathworkers.</item>
+               <item>Dyers.</item>
+               <item>Brewers.</item>
+               <item>Leatherſellers.</item>
+               <item>Pewterers.</item>
+               <item>Cutlers.</item>
+               <item>White-Bakers.</item>
+               <item>Wax-Chandlers.</item>
+               <item>Tallow-Chandlers.</item>
+               <item>Armourers,</item>
+               <item>Girdlers.</item>
+               <item>Butchers.</item>
+               <item>Sadlers,</item>
+               <item>Carpenters.</item>
+               <item>Cordwayners.</item>
+               <item>Barberſurgeons,</item>
+               <item>Painter-ſtainers,</item>
+               <item>Curriers.</item>
+               <item>Maſons.</item>
+               <item>Plummers.</item>
+               <item>Inholders.</item>
+               <item>Founders.</item>
+               <item>Poulterers.</item>
+               <item>Cooks.</item>
+               <item>Coopers.</item>
+               <item>Tylers and Bricklay<g ref="char:EOLhyphen"/>ers,</item>
+               <item>Bowyers.</item>
+               <item>Fletchers.</item>
+               <item>Black-Smiths.</item>
+               <item>Joyners.</item>
+               <item>Weavers.</item>
+               <item>Woolmen.</item>
+               <item>Woodmongers.</item>
+               <item>Scriveners.</item>
+               <item>Fruiterers.</item>
+               <item>Plaiſterers.</item>
+               <item>Brown-Bakers.</item>
+               <item>Stationers.</item>
+               <item>Imbroyderers.</item>
+               <item>Upholders.</item>
+               <item>Muſicians.</item>
+               <item>Turners.</item>
+               <item>Basketmakers.</item>
+               <item>Glaſiers.</item>
+            </list>
+            <pb facs="tcp:179928:20"/>
+            <pb facs="tcp:179928:20" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
